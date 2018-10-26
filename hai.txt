@@ -1,0 +1,2 @@
+var s ="hai"
+document.write(s);
